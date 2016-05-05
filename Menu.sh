@@ -1,3 +1,4 @@
+SI ME DEJA :D
 #!/bin/bash
 DIALOG=${DIALOG=dialog}
 
